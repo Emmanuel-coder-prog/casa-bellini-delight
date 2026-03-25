@@ -2,7 +2,7 @@
 
 A modern, high-converting restaurant website for **Casa Bellini Restaurant**, a 24-hour eatery in Accra, Ghana serving pizza, local dishes, sandwiches, ice cream, and drinks.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |---|---|
@@ -17,7 +17,7 @@ A modern, high-converting restaurant website for **Casa Bellini Restaurant**, a 
 | Icons | **Lucide React** |
 | Fonts | **Playfair Display** (display) · **DM Sans** (body) — via Google Fonts |
 
-## 📦 Dependencies
+##  Dependencies
 
 ### Production
 
@@ -57,13 +57,13 @@ A modern, high-converting restaurant website for **Casa Bellini Restaurant**, a 
 - `@playwright/test` — E2E testing
 - `lovable-tagger` — Component tagging
 
-## 🎨 Design System
+##  Design System
 
 - **Palette:** Dark background (`#1a1a1a`), warm gold accents, cream text
 - **Tokens:** All colors defined as HSL CSS variables in `src/index.css` and mapped in `tailwind.config.ts`
 - **Typography:** Playfair Display for headings, DM Sans for body text
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -76,7 +76,7 @@ src/
 └── index.css        # Design tokens & global styles
 ```
 
-## ⚙️ Setup
+##  Setup
 
 ```bash
 npm install
@@ -85,7 +85,7 @@ npm run dev
 
 The dev server runs at `http://localhost:8080`.
 
-## 📝 Notes
+##  Notes
 
 - Replace the placeholder WhatsApp number (`233000000000`) in components with the actual business number.
 - Replace placeholder images in `src/assets/` with real photography for production.
